@@ -1,0 +1,45 @@
+Template: Resume-CV-Design-N19
+
+Fonts: Google Fonts 
+
+Type: Montserrat
+
+Link: @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
+
+Colour schemes: Color Picker
+
+Colours: #DFEBEA, #fff, #09DDC9, #07ABAB, black, red and white
+
+
+Icons: Font Awesome
+
+Link: <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+
+Icons: 
+
+i. Location: <i class="fas fa-map-marker-alt" aria-hidden="true"></i>
+
+ii. Phone: <i class="fas fa-mobile" aria-hidden="true"></i>
+
+iii. Contact: <i class="fas fa-user-circle" aria-hidden="true"></i> 
+
+iv. GitHub: <i class="fab fa-github" aria-hidden="true"></i>
+
+v. Facebook: <i class="fab fa-facebook" aria-hidden="true"></i>
+
+vi. Twitter: <i class="fab fa-twitter" aria-hidden="true"></i>
+
+vii. WhatsApp: <i class="fab fa-whatsapp" aria-hidden="true"></i>
+
+Hobbies:
+
+viii. The Holy Qur'an: <i class="fas fa-quran" aria-hidden="true"></i>
+
+ix. Book: <i class="fas fa-book" aria-hidden="true"></i>
+
+x. Cycling: <i class="fas fa-biking" aria-hidden="true"></i>
+
+xi. Football: <i class="far fa-futbol" aria-hidden="true"></i>
+
+xii. Travel: <i class="fas fa-plane" aria-hidden="true"></i>
+
